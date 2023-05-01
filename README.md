@@ -1,2 +1,2 @@
 # paracetamolsummaries
-Paracetamol summaries from wikipedia
+Paracetamol summaries from wikipedia using Python libraries.
