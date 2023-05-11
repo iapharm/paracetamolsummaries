@@ -10,6 +10,7 @@ For this reason, a code has been created with Python and different libraries, su
 Contributor:
 Francesc Arcas Ruscalleda
 
+----
 
 Wikipedia es una gran enciclopedia con millones de artículos publicados en diferentes lenguas. Aunque existen una serie de normas generales, los artículos pueden tener una longitud e incorporar conceptos que no sean iguales entre las distintas lenguas. 
 
